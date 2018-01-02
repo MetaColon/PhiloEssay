@@ -5,7 +5,7 @@ Hierzu möchte ich zuerst erläutern, was es bedeutet, _eine Rolle zu spielen_.
 
 ## Eine Rolle spielen
 
-Eine Rolle spielen bedeutet im Grunde genommen, dass es einen Unterschied macht. Das bedeutet, wenn das, was fraglicherweise eine Rolle spielt, nicht existent / der Fall wäre, wäre die Situation anders, als sie es ist, wenn es existiert / der Fall ist.
+Eine Rolle spielen bedeutet im Grunde genommen, dass es einen Unterschied macht. Das heißt die Fragestellung ist: "Unterscheidet sich die Situation in der ich existiere, von der Situation in der ich nicht existiere?".
 Es wird vermutlich einfacher, wenn wir versuchen, es an einem konkreten Beispiel zu definieren, wobei sich das Beispiel der Existenz einer Person, oder noch spezifischer, von mir selbst anbietet. Hier bedeutet eine Rolle spielen also, dass die Situation, somit der _Zustand_ der Welt und des gesamten Universums, anders ist, nachdem ich gestorben bin, als sie es war, bevor ich geboren wurde. Es bedeutet also, dass ich einen Effekt auf das Universum und somit eine gewisse Relevanz hatte.
 Es ist hierbei jedoch absolut irrelevant, ob es auch _sinnvoll_ war, dass ich existierte. Ob ich die Welt von dem Problem der Klimaerwärmung befreit, oder nur bewirkt habe, dass in Deutschland ein Haus abgerissen wurde, ist egal.
 Ebenfalls irrelevant ist, ob ich _bewusst_ eine Rolle gespielt habe. Relevant ist nur, ob es einen Unterschied gemacht hat.

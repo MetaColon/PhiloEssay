@@ -24,7 +24,7 @@ Aber was bestimmt meine psychische Existenz?
 Die psychische Existenz ist etwas schwerer zu definieren und eine präzise Definition würde zu weit in das Gebiet der Anthropologie greifen, als dass sie hier angemessen wäre. Somit möchte ich die psychische Existenz so definieren, dass die _Psyche_ (oder der Geist oder das Bewusstsein) Einfluss auf etwas physisches haben kann. Das bedeutet z.B., dass ein Mensch (oder sein _Geist_) seinen Körper kontrollieren kann. Aber auch wenn ein Mensch z.B. im Koma liegt und er seinen Körper nicht mehr kontrollieren kann, besitzt er noch immer eine psychische Existenz, da sein Gehirn noch immer aktiv ist, die _Person_ steuert sozusagen noch immer das Gehirn, was durchaus physisch ist.
 Ein im Koma liegender Mensch besitzt also eine psychische Existenz, ein Toter nicht.
 
-Kommen wir zum letzten Teil der Fragestellung - _so wie ich bin_. Inwieweit schränkt das das Problem weiter ein?
+Kommen wir zum letzten Teil der Fragestellung – _so wie ich bin_. Inwieweit schränkt das das Problem weiter ein?
 
 ## Einzigartigkeit
 

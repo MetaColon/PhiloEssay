@@ -15,7 +15,7 @@ Ferner müssen wir uns den zweiten Teil der initialen Frage näher anschauen, de
 
 ## Existenz
 
-Generell ist mit Existenz eine physische Präsenz in dem uns observierbaren Universum gemeint. Das bedeutet, ein Stein existiert, Magie nicht.
+Generell ist mit Existenz eine physische Präsenz im Universum zu irgendeinem Zeitpunkt, physikalisch ausgedrückt: Wenn ein Teilchen ein oder mehrere andere beeinflusst. Daraus folgt zum Beispiel, dass ein Stein existiert, Magie nicht.
 In dieser Fragestellung jedoch wird Existenz mit der Person verknüpft, die Frage ist, ob es _mich_ gibt. Doch die wenigsten würden behaupten, dass es einen Menschen gibt, obwohl er bereits gestorben ist. Dabei wäre er physisch durchaus präsent, jedoch nicht psychisch. In der gegebenen Frage ist ohne Zweifel auch die psychische Existenz gemeint.
 Aber was bestimmt meine psychische Existenz?
 

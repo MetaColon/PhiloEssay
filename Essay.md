@@ -66,7 +66,7 @@ Sollte diese Theorie der Wahrheit entsprechen, wäre es so, dass es immer wieder
 
 Nach dieser Theorie dreht sich die Kraft, die die beschleunigte Ausdehnung des Universums bewirkt, nicht um. Das bedeutet, das Universum dehnt sich für alle Zeiten aus. Daraus und aus der Tatsache, dass Masse immer einer gewissen homogenen Verteilung zustrebt folgt, dass die einzelnen Atome ab einem gewissen Zeitpunkt so weit voneinander entfernt sind, dass keinerlei Anziehungskräfte mehr zwischen ihnen herschen. Dadurch gibt es keine Körper, keine zusammenhängenden Massen mehr.
 Nach dieser Theorie gehen zwar keine Informationen verloren und auch das chaotische System bleibt erhalten. Allerdings ist dann keinerlei Leben der uns bekannten Art mehr möglich und somit keiner, der observieren könnte, welchen Effekt man (_ich_) habe.
-Doch das ist egal - die Frage war nur, ob es eine Rolle spielt, ob es einen Effekt _gibt_, nicht ob dieser relevant ist. Nach dieser Theorie spielt also die Existenz jedes einzelnen Menschens eine Rolle.
+Doch das ist egal – die Frage war nur, ob es eine Rolle spielt, ob es einen Effekt _gibt_, nicht ob dieser relevant ist. Nach dieser Theorie spielt also die Existenz jedes einzelnen Menschens eine Rolle.
 
 Doch auch wenn nur nach der Rolle gefragt war, steckt hinter dieser Frage auch die Frage, ob es _einen Sinn_ hat, dass es mich gibt, so wie ich bin.
 

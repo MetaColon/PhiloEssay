@@ -47,7 +47,7 @@ Doch, wie bereits oben angemerkt, ist hier auch die Langfristigkeit der Variatio
 Um die langfristige Relevanz untersuchen zu können, müssen wir uns zuerst näher mit unserem Universum auseinandersetzen.
 
 ## Das Universum
-[comment]: <> (Warum ist es relevant ob der Urknall, Big Bang heißt?)
+[comment]: <> (Warum ist es relevant ob der Urknall, Big Bang heißt? ... Ah, okay wegen Wortspiel mit Big Bounce)
 Das uns bekannte Universum entstand vor einiger Zeit mit dem Urknall, dem sogenannten _Big Bang_. Die nähere Entstehung des Universums ist erstmal irrelevant.
 Es ist unbekannt, was vor dem Urknall war. Der Urknall selbst entstand jedoch aus einer punktförmigen Konzentration der gesamten Materie / Energie. Da keine Energie verloren gehen kann, war dies die gesamte Energie des heutigen Universums. Diesen "Punkt" bezeichnet man als _Singularität_. Da in ihr alle Materie / Energie in einem einzelnen Punkt ist, geht man davon aus, dass dies der einzige Punkt ist, in dem ein Informationsverlust stattfindet. Das bedeutet, normalerweise geht keine Information verloren. Zu welchem Zeitpunkt Julius Cäsar das erste mal geniesst hat, wäre auch noch in Milliarden von Jahren möglich zu rekonstruieren, da alles im Universum sich gegenseitig beeinflusst und diese Beeinflussungen eindeutig zurückzuführen sind und somit Cäsars Zeit eindeutig rekonstruierbar ist. In der Praxis sieht das natürlich anders aus, da so eine genaue Observation des Universums praktisch unmöglich ist, die Information ging dennoch nicht verloren.
 Wenn man das auf die Chaostheorie überträgt bedeutet es, dass auch Milliarden Jahre nachdem Cäsar das erste mal geniesst hat, diese Aktion einen Einfluss auf das Universum hat – die Information ging nicht verloren.
@@ -57,8 +57,10 @@ Was hat das mit der Rolle, die ein Mensch spielt zu tun, war der Urknall doch vo
 
 ### Zyklische kosmologische Theorie
 
+[comment]: <> (Für diese Theorie gibt es sehr wenig Indizien und keine Belege.)
+
 In der bekanntesten zyklisch kosmologischen Theorie wird angenommen, dass der _Big Bang_ viel mehr ein _Big Bounce_ ist. Das bedeutet, es gibt einen Urknall, das Universum dehnt sich aus, irgendwann zieht es sich wieder zusammen und es gibt wieder einen Urknall. Auch wenn diese Theorie vorerst abwegig erscheint, ist sie eine der am meisten vertretenen Universumstheorien. Denn auch wenn es seltsam erscheint, dass das Universum irgendwann aufhören sollte, sich auszudehnen, ist im Moment noch nicht bekannt, weshalb das Universum sich beschleunigend ausdehnt und es ist deshalb möglich, dass sich diese Kraft irgendwann invertiert. Eine nähere Erläuterung dieses Themas würde hier den Rahmen sprengen.
-Sollte diese Theorie der Wahrheit entsprechen, wäre es so, dass es immer wieder eine Singularität geben wird und dass es auch bereits vor unserem Urknall ein Universum ähnlich (oder sogar gleich) dem unseren gegeben hat. Wenn es jedoch immer wieder eine Singularität gibt, bedeutet das auch, dass es immer wieder einen Informationsverlust gibt, dass immer wieder chaotische Neuanfänge entstehen. Ist das der Fall, ist klar, dass nichts (und somit auch nicht _ich_) langfristig eine Rolle spielt - denn nichts hat dann einen langfristigen Effekt, nichts kann langfristig etwas bewirken.
+Sollte diese Theorie der Wahrheit entsprechen, wäre es so, dass es immer wieder eine Singularität geben wird und dass es auch bereits vor unserem Urknall ein Universum ähnlich (oder sogar gleich) dem unseren gegeben hat. Wenn es jedoch immer wieder eine Singularität gibt, bedeutet das auch, dass es immer wieder einen Informationsverlust gibt, dass immer wieder chaotische Neuanfänge entstehen. Ist das der Fall, ist klar, dass nichts (und somit auch nicht _ich_) langfristig eine Rolle spielt – denn nichts hat dann einen langfristigen Effekt, nichts kann langfristig etwas bewirken.
 
 ### Unendliche Expansion
 

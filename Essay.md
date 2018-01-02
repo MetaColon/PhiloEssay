@@ -32,6 +32,8 @@ Es bedeutet, dass es relevant ist, dass _ich_ existiere. Das heißt, die Frage k
 
 Um der Beantwortung der Frage näher zu kommen, möchte ich, nachdem die Frage selbst nun definiert ist, Die Grundprinzipien der Chaostheorie erläutern.
 
+[comment]: <> (Was haben Einzigartikeit und Chaostheorie miteinander zu tun?)
+
 ## Chaostheorie
 
 Die Chaostheorie beschäftigt sich mit sogenannte _chaotischen Systemen_. Ein chaotisches System ist ein System dann, wenn es sensitive Parameter hat, deren Veränderung einen hohen Einfluss auf einen späteren Zustand hat. Ein bekanntes Beispiel hierfür ist das eines Schmetterlings. Der Schmetterling selbst hat zwar fast keine Auswirkung auf die Luftbewegungen, aber eben nur _fast_ keine Auswirkungen. Dadurch kann die kleine Schwingung, welche der Schmetterling auslöste, später zu einem Hurrikan heranwachsen. Ein Schmetterling kann also Wirbelstürme auslösen.
@@ -40,7 +42,7 @@ Das Wetter der Erde ist das wohl bekannteste chaotische System, doch auch das ge
 Was bedeutet das also für die Rolle, die ich spiele? Egal was ich tue, es kann beachtenswerte Veränderungen des gesamten Universums hervorrufen. Für gewöhnlich bedenkt man nur die Veränderungen, die man in seinem direkten Umfeld hervorruft, da dies ja auch die einzigen Veränderungen sind, die man wahrnehmen und auf sich zurückschließen kann. Doch alles was wir tun, hat einen Einfluss auf das gesamte Universum.
 
 Das bedeutet, sobald eine Person physischen Einfluss haben kann, sie also psychisch existiert, kann sie etwas verändern, das Universum in einen anderen Zustand versetzen und somit _eine Rolle spielen_.
-Doch, wie bereits oben angemerkt, ist hier auch die Langfristigkeit der Variation des erreichten Effektes relevant. Das bedeutet, es ist nicht nur relevant, ob man eine Rolle gespielt hat, kurz nachdem man gestorben ist, es ist auch relevant, ob man eine _langfristige_ Rolle gespielt hat. Diese Lanfristigkeit kann beliebig weit beachtet werden, doch meiner Meinung nach spielt hier die _unendliche Langristigkeit_ eine Rolle - denn hat man tatsächlich eine Rolle gespielt, wenn man irgendwann doch wieder keinen Effekt erzielt hat? Wenn sich also alles irgendwann wieder nihiliert, was für eine Rolle hat dann die persönliche Existenz gespielt?
+Doch, wie bereits oben angemerkt, ist hier auch die Langfristigkeit der Variation des erreichten Effektes relevant. Das bedeutet, es ist nicht nur relevant, ob man eine Rolle gespielt hat, kurz nachdem man gestorben ist, es ist auch relevant, ob man eine _langfristige_ Rolle gespielt hat. Diese Lanfristigkeit kann beliebig weit beachtet werden, doch meiner Meinung nach spielt hier die _unendliche Langristigkeit_ eine Rolle – denn hat man tatsächlich eine Rolle gespielt, wenn man irgendwann doch wieder keinen Effekt erzielt hat? Wenn sich also alles irgendwann wieder nihiliert, was für eine Rolle hat dann die persönliche Existenz gespielt?
 
 Um die langfristige Relevanz untersuchen zu können, müssen wir uns zuerst näher mit unserem Universum auseinandersetzen.
 

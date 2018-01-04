@@ -7,9 +7,9 @@ Hierzu möchte ich zuerst erläutern, was es bedeutet, _eine Rolle zu spielen_.
 
 Eine Rolle spielen bedeutet im Grunde genommen, dass es einen Unterschied macht. Das heißt die Fragestellung ist: "Unterscheidet sich die Situation in der ich existiere, von der Situation in der ich nicht existiere?".
 Es wird vermutlich einfacher, wenn wir versuchen, es an einem konkreten Beispiel zu verdeutlichen, wobei sich das Beispiel der Existenz einer Person, oder noch spezifischer, von mir selbst anbietet. Hier bedeutet eine Rolle spielen also, dass die Situation, somit der _Zustand_ der Welt und des gesamten Universums sich durch meine Existenz verändert hat. Es bedeutet also, dass ich einen Effekt auf das Universum und somit eine _gewisse Relevanz_ hatte.
-Es ist hierbei jedoch absolut irrelevant, ob es auch _sinnvoll_ war, dass ich existierte. Ob ich die Welt von dem Problem der Klimaerwärmung befreit, oder nur bewirkt habe, dass in Deutschland ein Haus abgerissen wurde, ist egal. Dennoch ist es sinnvoll die erwähnte gewisse Relevanz genauer zu definieren und grob zu quantifizieren bzw. zu kategoriesieren.
+Es ist hierbei jedoch absolut irrelevant, ob es auch _sinnvoll_ war, dass ich existierte. Ob ich die Welt von dem Problem der Klimaerwärmung befreit, oder nur bewirkt habe, dass in Deutschland ein Haus abgerissen wurde, ist egal.
 Ebenfalls irrelevant ist, ob ich _bewusst_ eine Rolle gespielt habe. Relevant ist nur, ob es einen Unterschied gemacht hat.
-Relevant (zumindest in Anbetracht der Fragestellung) scheint jedoch zu sein, ob es einen _langfristigen_ Unterschied macht, eine genauere Definition des Relevanz-Begriffs wird später folgen.
+Relevant (zumindest in Anbetracht der Fragestellung) scheint jedoch zu sein, ob es einen _langfristigen_ Unterschied macht.
 
 Ferner müssen wir uns den zweiten Teil der initialen Frage näher anschauen, der "ob es mich gibt" lautet. Ab wann _gibt es mich_? Was bestimmt meine Existenz?
 

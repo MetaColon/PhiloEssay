@@ -101,5 +101,4 @@ Doch auch wenn es jetzt so erscheint, als wäre mein Leben langfristig sinnlos, 
 Quellen:
 
 https://de.wikipedia.org/wiki/Chaosforschung
-
 https://www.youtube.com/user/Kurzgesagt/videos

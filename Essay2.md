@@ -8,7 +8,7 @@ Schauen wir uns hierzu erst einmal an, was _rational_ überhaupt bedeutet. Wikip
 
 > Mit Rationalität [...] wird ein vernunftgeleitetes und an Zwecken ausgerichtetes Denken und Handeln bezeichnet. [^1]
 
-Rationales Handeln beduetet also, dass man auf Basis der Vernunft über das Handeln entscheidet. Weniger vom Wortstamm (ratio = lat. Vernunft) ableiten lässt sich der Teil mit "an Zwecken ausgerichtet". Hier wird implizit angenommen, dass vernünftiges Handeln zur Folge hat, dass das Handeln an Zwecken ausgerichtet ist. Da ich hier keine klar offensichtlichen Prämissen (wie dass rational vernunftgeleitet bedeutet) zulassen möchte, werde ich im weiteren Verlaufe des Essays diesen Teil der Definition nicht beachten.
+Rationales Handeln bedeutet also, dass man auf Basis der Vernunft über das Handeln entscheidet. Weniger vom Wortstamm (ratio = lat. Vernunft) ableiten lässt sich der Teil mit "an Zwecken ausgerichtet". Hier wird implizit angenommen, dass vernünftiges Handeln zur Folge hat, dass das Handeln an Zwecken ausgerichtet ist. Da ich hier keine klar offensichtlichen Prämissen (wie dass rational vernunftgeleitet bedeutet) zulassen möchte, werde ich im weiteren Verlaufe des Essays diesen Teil der Definition nicht beachten.
 Ganz klar ist der Begriff _rational_ aber noch immer nicht definiert, da unklar bleibt, wann ein Handeln vernunftgeleitet ist. Dies lässt sich vermutlich am besten durch den Gegenspieler zur Rationalität definieren, der Emotionalität.
 
 ## Emotionalität
@@ -22,7 +22,7 @@ Abgesehen davon, ob ein Leben jetzt rational oder emotional geführt wird, wie k
 
 ## Evolution
 
-Biologisch gesehen sieht das etwas anders aus. Denn biologisch ist ein Leben empfehlenswert, wenn es mit den Idealen des evolutionären Prozesses übereinstimmt, welche sich auf eines reduzieren lassen: Reproduktion. Evolutionär gesprochen erscheint es vollkommen irrelevant, ob ein mensch glücklich ist oder ein langes Leben hatte, solange er viele fortpflanzungsfähige Nachkommen _produziert_ hat. Doch ist es tatsächlich irrelevant? Wenn wir die Idee übernehmen, dass alle Eigenschaften des Menschen aus der Evolution resultieren, müssten auch die drei genannten Wünsche des Menschen aus der Evolution resultieren.
+Biologisch gesehen sieht das etwas anders aus. Denn biologisch ist ein Leben empfehlenswert, wenn es mit den Idealen des evolutionären Prozesses übereinstimmt, welche sich auf eines reduzieren lassen: Reproduktion. Evolutionär gesprochen erscheint es vollkommen irrelevant, ob ein Mensch glücklich ist oder ein langes Leben hatte, solange er viele fortpflanzungsfähige Nachkommen _produziert_ hat. Doch ist es tatsächlich irrelevant? Wenn wir die Idee übernehmen, dass alle Eigenschaften des Menschen aus der Evolution resultieren, müssten auch die drei genannten Wünsche des Menschen aus der Evolution resultieren.
 
 ### Glückliches Leben
 
@@ -31,7 +31,7 @@ Es lässt sich also durchaus argumentieren, dass das Streben nach Glück evoluti
 
 ### Glückliches Leben anderer
 
-Das Streben nach dem Glück anderer lässt sich evolutionär damit erklären, dass der Mensch ein _Herdentier_ ist. Da man bessere Chancen hatte zu überleben, wenn man in einer Gruppe war, fühlt der Mensch sich generell wohl, mit anderen Menschen zu sein (Apathisten o.ä. stellen hier die Ausnahme dar). Wenn ein Mensch sich in einer Gruppe nicht wohl fühlt, er nicht glücklich ist, ist das für ihn ein Zeichen, dass es sich nicht um eine gute Gruppe handelt und er verlässt sie. Da es aber so ist, dass der Mensch in einer Gruppe besser ist, ist es evolutionär logisch, dass der Mensch versucht, die Gruppe zusammenzuhalten. Um das zu erreichen, muss er dafür sorgen, dass die Mitglieder sich in der Gruppe wohlfühlen, dass sie glücklich sind. 
+Das Streben nach dem Glück anderer lässt sich evolutionär damit erklären, dass der Mensch ein _Herdentier_ ist. Da man bessere Chancen hatte zu überleben, wenn man in einer Gruppe war, fühlt der Mensch sich generell wohl, mit anderen Menschen zu sein (apathische Menschen o.ä. stellen hier die Ausnahme dar). Wenn ein Mensch sich in einer Gruppe nicht wohl fühlt, er nicht glücklich ist, ist das für ihn ein Zeichen, dass es sich nicht um eine gute Gruppe handelt und er verlässt sie. Da es aber so ist, dass der Mensch in einer Gruppe besser ist, ist es evolutionär logisch, dass der Mensch versucht, die Gruppe zusammenzuhalten. Um das zu erreichen, muss er dafür sorgen, dass die Mitglieder sich in der Gruppe wohlfühlen, dass sie glücklich sind. 
 Somit lässt sich auch der Wunsch für das Glück anderer evolutionär erklären und ist folglich biologisch empfehlenswert.
 
 ### Langes Leben
@@ -49,7 +49,7 @@ Wenn jetzt also die rein rationale Lebensweise zu der Erfüllung dieser _Lebensz
 
 #### Langes Leben
 
-Um zu überprüfen, ob Rationalität zu einem langen Leben führt, müssen wir uns zuerst einmal anschauen, welche Aspekte zu einem verkürzten Leben führen. Da die einzige Möglichkeit, ein Leben zu verkürzen, darin besteht, zu sterben, müssen wir uns also Todesursachen ansehen. Die häufigsten Todesursachen sind Krankheiten des Kreislaufsystems (39%), Krebs (25%), Krankheiten des Atmungssystems (7%), Krankheiten des Verdauungssystems (4%) und Verletzungen und Vergiftungen (4%)[^3]. Bei den ersten vier Punkten kann man darüber streiten, ob sie sich überhaupt verhindern lassen oder ob sie unabhängig davon, was ein Mensch tut, eintreten. Ich vertrete allerdings die Meinung, dass durch eine gesunde Lebensweise (dazu gehört unter anderem Sport, eine gesunde Ernährung und viel Schlaf) die Chance dafür, dass diese Krankheiten eintreten, zumindest verringert werden könnnen.
+Um zu überprüfen, ob Rationalität zu einem langen Leben führt, müssen wir uns zuerst einmal anschauen, welche Aspekte zu einem verkürzten Leben führen. Da die einzige Möglichkeit, ein Leben zu verkürzen, darin besteht, zu sterben, müssen wir uns also Todesursachen ansehen. Die häufigsten Todesursachen sind Krankheiten des Kreislaufsystems (39%), Krebs (25%), Krankheiten des Atmungssystems (7%), Krankheiten des Verdauungssystems (4%) und Verletzungen und Vergiftungen (4%)[^3]. Bei den ersten vier Punkten kann man darüber streiten, ob sie sich überhaupt verhindern lassen oder ob sie unabhängig davon, was ein Mensch tut, eintreten. Ich vertrete allerdings die Meinung, dass durch eine gesunde Lebensweise (dazu gehört unter anderem Sport, eine gesunde Ernährung und viel Schlaf) die Chance dafür, dass diese Krankheiten eintreten, zumindest verringert werden können.
 Zu der Einsicht, dass eine gesunde Lebensweise wichtig ist, kommt man über die Rationalität relativ leicht: Wenn man keine gesunde Lebensweise hat, zeigen schon empirische Daten, dass man häufiger krank wird. Die Chance auf die letzte genannte Todesursache (Verletzungen und Vergiftungen) lässt sich ebenfalls mit Rationalität verringern. Denn durch Rationalität lassen sich gefährliche Situationen überhaupt erst erkennen und verhindern. Wenn man z.B. in einer Wüste ist und eine Schlange sieht, kann man durch rationales Denken darauf kommen, dass man die Schlange nicht provozieren sollte und somit unter Umständen eine Vergiftung verhindern.
 
 Rationales Denken kann also durchaus einem langen Leben zuträglich sein.
@@ -63,7 +63,7 @@ Etwas anders sieht es mit dem glücklichen Leben aus. Denn während man zwar log
 Für ein glückliches Leben anderer allerdings muss man selbst kein Glück empfinden können. Man kann auf empirischen Daten beruhend ermitteln, was andere glücklich macht und derartige Aktionen unternehmen. 
 Es ist also durchaus möglich, mit Rationalität andere Leute glücklich machen zu können.
 
-Ein rein rationales Leben würde allerdings maximal in einem langen, altruistischen Leben resultieren, welches wohl die wenigsten als empfehlenswert bezeichnen würden. Vor allem wäre es nicht möglich, wenn es für alle empfehlenswert wäre - denn wenn keiner Glück empfinden könnte, könnte auch keiner andere glücklich machen und das einzige, was erhalten bleiben würde, wäre ein langes Leben.
+Ein rein rationales Leben würde allerdings maximal in einem langen, altruistischen Leben resultieren, welches wohl die wenigsten als empfehlenswert bezeichnen würden. Vor allem wäre es nicht möglich, wenn es für alle empfehlenswert wäre - denn, wenn keiner Glück empfinden könnte, könnte auch keiner andere glücklich machen und das einzige, was erhalten bleiben würde, wäre ein langes Leben.
 
 ### Emotionalität
 
@@ -95,7 +95,7 @@ Wie man sieht, kann keine strikte Trennung zwischen rationalen und emotionalen E
 
 ## Fazit
 
-Ein rein rationales Leben ist also nicht empfehlenswert - genauso wenig wie ein rein emotionales Leben. Stattdessen ist die Kombination beider Triebfedern empfehlenswert, auch wenn die Gewichtung der jeweiligen Triebfeder nicht immer einfach ist. Wann genau man sich nach Emotionalität und wann nach Rationalität richten soll ist nicht immer klar ersichtlich und offenbart sich häufig erst nachdem es schon zu spät ist. Dennoch hilft die Rationalität dabei, die richtige Wahl zu treffen, indem sie sich z.B. auf derartige frühere Ereignisse berufen kann. Empfehlenswert ist es also, rational zu entscheiden, ob man sich in einer gewissen Situation ehere emotional oder eher rational entscheiden sollte.
+Ein rein rationales Leben ist also nicht empfehlenswert - genauso wenig wie ein rein emotionales Leben. Stattdessen ist die Kombination beider Triebfedern empfehlenswert, auch wenn die Gewichtung der jeweiligen Triebfeder nicht immer einfach ist. Wann genau man sich nach Emotionalität und wann nach Rationalität richten soll ist nicht immer klar ersichtlich und offenbart sich häufig erst nachdem es schon zu spät ist. Dennoch hilft die Rationalität dabei, die richtige Wahl zu treffen, indem sie sich z.B. auf derartige frühere Ereignisse berufen kann. Empfehlenswert ist es also, rational zu entscheiden, ob man sich in einer gewissen Situation eher emotional oder eher rational entscheiden sollte.
 
 
 [^1]: https://de.wikipedia.org/wiki/Rationalit%C3%A4t

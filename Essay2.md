@@ -41,7 +41,63 @@ Auch wenn das heute nicht mehr zutrifft, lässt sich somit der Wunsch nach einem
 
 Wie wir sehen unterscheidet sich ein biologisch empfehlenswertes Leben also nicht zwingend von einem vom Menschen gewünschten Leben. Man kann also mit Recht behaupten, dass ein langes und glückliches Leben, in dem man viele Menschen glücklich gemacht hat, empfehlenswert ist.
 
+## Überprüfung
+
+Wenn jetzt also die rein rationale Lebensweise zu der Erfüllung dieser _Lebensziele_ führt, kann man mit Recht behaupten, dass jene empfehlenswert ist.
+
+### Rationalität
+
+#### Langes Leben
+
+Um zu überprüfen, ob Rationalität zu einem langen Leben führt, müssen wir uns zuerst einmal anschauen, welche Aspekte zu einem verkürzten Leben führen. Da die einzige Möglichkeit, ein Leben zu verkürzen, darin besteht, zu sterben, müssen wir uns also Todesursachen ansehen. Die häufigsten Todesursachen sind Krankheiten des Kreislaufsystems (39%), Krebs (25%), Krankheiten des Atmungssystems (7%), Krankheiten des Verdauungssystems (4%) und Verletzungen und Vergiftungen (4%)[^3]. Bei den ersten vier Punkten kann man darüber streiten, ob sie sich überhaupt verhindern lassen oder ob sie unabhängig davon, was ein Mensch tut, eintreten. Ich vertrete allerdings die Meinung, dass durch eine gesunde Lebensweise (dazu gehört unter anderem Sport, eine gesunde Ernährung und viel Schlaf) die Chance dafür, dass diese Krankheiten eintreten, zumindest verringert werden könnnen.
+Zu der Einsicht, dass eine gesunde Lebensweise wichtig ist, kommt man über die Rationalität relativ leicht: Wenn man keine gesunde Lebensweise hat, zeigen schon empirische Daten, dass man häufiger krank wird. Die Chance auf die letzte genannte Todesursache (Verletzungen und Vergiftungen) lässt sich ebenfalls mit Rationalität verringern. Denn durch Rationalität lassen sich gefährliche Situationen überhaupt erst erkennen und verhindern. Wenn man z.B. in einer Wüste ist und eine Schlange sieht, kann man durch rationales Denken darauf kommen, dass man die Schlange nicht provozieren sollte und somit unter Umständen eine Vergiftung verhindern.
+
+Rationales Denken kann also durchaus einem langen Leben zuträglich sein.
+
+#### Glückliches Leben
+
+Etwas anders sieht es mit dem glücklichen Leben aus. Denn während man zwar logisch überlegen kann, was einen Menschen glücklich macht, kann man dieses Glück ohne Emotionen zuzulassen nicht empfinden, da Glück selbst eine Emotion ist. Man kann also, wenn man ein rein rationales Leben führt, nicht glücklich werden, da sich fehlende Emotionen und existierendes Glück kategorisch ausschließen.
+
+#### Glückliches Leben anderer
+
+Für ein glückliches Leben anderer allerdings muss man selbst kein Glück empfinden können. Man kann auf empirischen Daten beruhend ermitteln, was andere glücklich macht und derartige Aktionen unternehmen. 
+Es ist also durchaus möglich, mit Rationalität andere Leute glücklich machen zu können.
+
+Ein rein rationales Leben würde allerdings maximal in einem langen, altruistischen Leben resultieren, welches wohl die wenigsten als empfehlenswert bezeichnen würden. Vor allem wäre es nicht möglich, wenn es für alle empfehlenswert wäre - denn wenn keiner Glück empfinden könnte, könnte auch keiner andere glücklich machen und das einzige, was erhalten bleiben würde, wäre ein langes Leben.
+
+### Emotionalität
+
+Wie sähe es dann mit einem rein emotionalen Leben aus? Ist ein rein emotionales Leben empfehlenswert?
+
+#### Langes Leben
+
+Da Emotionen generell eine eher kurzweilige Reichweite haben, können genannte vier Haupttodesursachen mit reiner Emotionalität schlecht verhindert werden. Natürlich kann es sein, dass man ein schlechtes Gewissen hat, wenn man sich ungesund ernährt, dieses basiert dann aber auf der zuvor rational erworbenen Erkenntnis, dass ungesundes Essen zu einem verkürzten Leben führt. Auch Verletzungen und Vergiftungen können mit Emotionalität nur schlecht verhindert werden. Zwar empfindet man Dinge wie Angst, allerdings sorgt Angst allein selten für eine Lösung des Problems.
+Tatsächlich trifft man auf Emotionen beruhend häufig Entscheidungen, die das Leben sogar verkürzen. Denn wenn wir z.B. Schokolade essen, schüttet unser Körper Glückshormone aus und wir möchten mehr Schokolade essen. Schokolade ist aber (vor allem in größeren Mengen) nicht sonderlich gesund, somit wirkt diese auf Emotionen beruhende Aktion eher eine Verkürzung des Lebens.
+
+#### Glückliches Leben
+
+Anders sieht es mit einem glücklichen Leben aus. Denn da Glück eine der stärksten Emotionen ist, beruhen viele aus Emotionen resultierende Aktionen auf dem Ziel, Glück zu empfinden. Allerdings ist es möglich, dass man zwar Glück empfinden möchte, aber aufgrund mangelnder Rationalität nicht den richtigen Weg findet, um glücklich zu werden. So kann es z.B. sein, dass man erst etwas machen muss, was einem keinen Spaß macht (z.B. in die Schule zu gehen), um später etwas machen zu können, was einem Spaß macht (z.B. einen guten Job haben). Allein aus Emotionalität würde man das, was einem keinen Spaß macht, auch nicht machen und man könnte das spätere Glück nicht mehr erfahren.
+Reine Emotionalität kann also zu Glück führen, sie kann es aber auch verhindern.
+
+#### Glückliches Leben anderer
+
+Ähnlich verhält es sich mit dem glücklichen Leben anderer. Aus Emotionen wie Empathie heraus tun wir das, was andere glücklich zu machen scheint. Allerdings kann auch hier die Emotionalität Glück verhindern, indem wir Dinge tun, von denen wir denken, dass sie andere glücklich machen, während sie anderen in Wirklichkeit vielleicht schaden. So kann es z.B. zustande kommen, dass Kindern in Afrika Geld gespendet wird, weil man Mitleid mit jenen hat, aber dadurch lernen sie nicht, selbst Geld zu verdienen und sind immer abhängig von anderen - somit hat das kurzweilige Glück letztlich das langfristige verhindert.
+
+Ein rein emotionales Leben kann also zu einem kurzen, traurigen Leben führen, indem man keine anderen Leute glücklich gemacht hat - oder es kann zu einem langen, glücklichen Leben führen, indem man viele Menschen glücklich gemacht hat. Es besteht allerdings ein relativ hohes Risiko, weshalb ich auch diese Lebensart nicht als empfehlenswert ansehen würde.
+
+### Kombination
+
+Wenn weder ein rein rationales Leben, noch ein rein emotionales Leben empfehlenswert ist, erscheint die einzige verbliebene Möglichkeit die Kombination der beiden Lebensarten zu sein. Wann genau welche Triebfeder genutzt werden sollte, muss in jeder Situation selbst entschieden werden, wobei es sich zweifelsohne um keine leichte Aufgabe handelt. Denn auch dann stellt sich wieder die Frage, soll emotional oder rational entschieden werden, ob emotional oder rational entschieden werden soll. Diese Frage lässt sich jedoch einfacher beantworten: Denn der Nachteil am rein rationalen Leben war letztlich nur, dass man das Glück nicht empfinden kann. Wenn man also entscheidet, nach welcher Triebfeder man sich richten sollte, muss man nicht direkt Glück empfinden können. Man kann z.B. in einer Situation, die rational gesehen keinen oder nur einen geringen Nachteil nach sich zieht, aber emotional gesehen einen großen Vorteil bringt, rational entscheiden, sich emotional zu entscheiden. Um diese Entscheidung zu treffen, muss man nicht direkt Glück empfinden können - man muss sich nur bewusst sein, dass man Glück empfinden kann.
+
+Eine derartige Kombination kann, wenn man sie richtig anwendet, zu einer Erfüllung aller genannten Ziele führen. Dadurch, dass man in gesundheitlichen oder lebensgefährlichen Entscheidungen rational entscheidet, hat man ein langes Leben. In Situationen, die in Glück resultieren können, überlegt man rational, ob sie zukünftig Glück verhindern könnten und entscheidet emotional, ob sie einen glücklich machen würden. In Situationen, die andere glücklich machen könnten, überlegt man rational, ob sie die anderen auch langfristig und tatsächlich glücklich machen und emotional, wie sich die anderen vermutlich fühlen werden.
+
+Wie man sieht, kann keine strikte Trennung zwischen rationalen und emotionalen Entscheidungen getroffen werden. Es haben immer beide Seiten einen gewissen Einfluss. Aber durch die Rationalität ist es möglich, den Einfluss der beiden Triebfedern so zu steuern, dass es in einem empfehlenswerten Leben resultiert. Und selbst wenn das nicht immer möglich ist, selbst wenn doch mal die Emotionen so stark sind, dass sie nicht mehr von der Rationalität gebändigt werden können, verhindert das nicht gleich ein glückliches Leben. Im Gegenteil, derartige Fehler machen das Leben erst interessant und können somit selbst wieder in Glück resultieren.
+
+## Fazit
+
+Ein rein rationales Leben ist also nicht empfehlenswert - genauso wenig wie ein rein emotionales Leben. Stattdessen ist die Kombination beider Triebfedern empfehlenswert, auch wenn die Gewichtung der jeweiligen Triebfeder nicht immer einfach ist. Wann genau man sich nach Emotionalität und wann nach Rationalität richten soll ist nicht immer klar ersichtlich und offenbart sich häufig erst nachdem es schon zu spät ist. Dennoch hilft die Rationalität dabei, die richtige Wahl zu treffen, indem sie sich z.B. auf derartige frühere Ereignisse berufen kann. Empfehlenswert ist es also, rational zu entscheiden, ob man sich in einer gewissen Situation ehere emotional oder eher rational entscheiden sollte.
 
 
 [^1]: https://de.wikipedia.org/wiki/Rationalit%C3%A4t
 [^2]: http://www.h-age.net/aktuelles/1163-steigende-lebenserwartung-heute-ist-72-wie-30-in-der-steinzeit.html
+[^3]: https://www.destatis.de/DE/ZahlenFakten/GesellschaftStaat/Gesundheit/Todesursachen/Todesursachen.html
